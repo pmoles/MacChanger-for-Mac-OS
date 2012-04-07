@@ -1,0 +1,4 @@
+INSTALATION:
+	Copy the script and change the value of the original mac and the path in the code.
+USAGE:
+	macchanger [OPTIONS] interface

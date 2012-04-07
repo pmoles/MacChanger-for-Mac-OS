@@ -1,3 +1,6 @@
+#Author: Pablo Moles
+#Read the README file for more information
+
 #!/bin/sh
 
 if [ $# > 1 ] || [ $# == 1 ] ;
